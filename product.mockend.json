@@ -1,0 +1,8 @@
+{
+  "Products": {
+    "name": "kopi",
+    "image": "",
+    "price": 10000,
+    "description": "kopi description"
+  }
+}
