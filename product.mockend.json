@@ -1,8 +1,8 @@
 {
   "Product": {
-    "name": "kopi",
-    "image": "",
-    "price": 10000,
-    "description": "kopi description"
+    "name": "string",
+    "image": "string",
+    "price": "int",
+    "description": "string"
   }
 }
