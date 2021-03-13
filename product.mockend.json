@@ -1,8 +1,0 @@
-{
-  "Product": {
-    "name": "string",
-    "image": "string",
-    "price": "int",
-    "description": "string"
-  }
-}
